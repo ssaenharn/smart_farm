@@ -9,10 +9,10 @@
 #include <BlynkSimpleEsp8266.h>
 #include <DHT_U.h>
 
-char auth[] = "KcEIHIoNdWNkdFBEwDrEd3X1M06rhlUE";
+char auth[] = "";
 
-char ssid[] = "HomeWiFi";         // SSID name
-char pass[] = "6588de8c9c";       // Password
+char ssid[] = "";         // SSID name
+char pass[] = "";       // Password
 
 //DHT22 Sensor connected with Digital pin#5 (D1)
 #define DHTPIN 5
